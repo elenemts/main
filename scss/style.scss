@@ -439,9 +439,9 @@ a {
 		.site-menu {
 			> li {
 				> a {
-					color: rgba($white, .7)!important;
+					color: rgba($danger, .7)!important;
 					&:hover, &.active {
-						color: $white!important;
+						color: $danger!important;
 					}
 				}
 			}
@@ -466,7 +466,7 @@ a {
 					> a {
 						color: $black!important;
 						&:hover, &.active {
-							color: $primary!important;
+							color: $danger!important;
 						}
 					}
 				}
